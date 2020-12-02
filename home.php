@@ -1,12 +1,12 @@
-<php?
+<?php
 <html>
 	<head></head>
 	<body>
-		<form>
+		<form action="checker.php" method="post">
 			<label for="password">Password</label><br>
 			<input type="text" id="password" name="password"><br>
 			<input type="submit" value="Submit">
 		</form>
 	</body>
 </html>
->
+?>
